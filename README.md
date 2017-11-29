@@ -5,8 +5,7 @@ Please refer to the file named - 'user_email_analysis.ipynb' for the code
 
 
 ##Overview
-Babylist takehome
-Overview
+
 We have an email metrics system that has been gathering data since early summer. This tracks email sends, opens and clicks on a per-user basis. It also tracks some supplemental information about each user:
 
 	1.	Whether or not they have created a Babylist registry (registry_created_at) 
