@@ -33,9 +33,9 @@ Can you describe how our email list(s) are churning?
 What is the average lifetime of an email user (how long do they receive at least one of our email series)? Does that vary by referrer?
 
 What factors correlate the most to churn? 
-	•	Due date? 
-	•	Source? 
-	•	Anything else? 
+* Due date?
+* Source?
+* Anything else?
 
 How would you describe our worst cohort?
 
